@@ -1,4 +1,5 @@
-nvoice Data Extraction using Nanonets (No-Code AI)
+Invoice Data Extraction using Nanonets (No-Code AI)
+
 🚀 Overview
 
 This project demonstrates how to convert unstructured financial documents (invoices in PDF/image format) into structured, usable data using Nanonets, 
