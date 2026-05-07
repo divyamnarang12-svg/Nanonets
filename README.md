@@ -1,9 +1,11 @@
 nvoice Data Extraction using Nanonets (No-Code AI)
 🚀 Overview
 
-This project demonstrates how to convert unstructured financial documents (invoices in PDF/image format) into structured, usable data using Nanonets, a no-code AI platform for intelligent document processing.
+This project demonstrates how to convert unstructured financial documents (invoices in PDF/image format) into structured, usable data using Nanonets, 
+a no-code AI platform for intelligent document processing.
 
-The lab showcases how AI-powered automation can replace manual data entry, reduce errors, and accelerate financial workflows—without writing a single line of code.
+The lab showcases how AI-powered automation can replace manual data entry, reduce errors, and accelerate financial workflows—without
+writing a single line of code.
 
 🎯 Objective
 
@@ -64,8 +66,11 @@ Workflow: PDF Upload → Nanonets OCR → structured
 
 
 🏁 Conclusion
-MBA Takeaway: This is Intelligent Document Processing (IDP)—the backbone of Digital Finance Transformation to extract the text from large files. Large enterprises use Nanonets to achieve analytics and 50% cost reduction.
+MBA Takeaway: This is Intelligent Document Processing (IDP)—the backbone of Digital Finance Transformation to extract the text from large files. 
+Large enterprises use Nanonets to achieve analytics and 50% cost reduction.
 
 👩‍💼 Author
+
 Divyam Narang
+
 MBA Finance Student | AI in Finance Practitioner
