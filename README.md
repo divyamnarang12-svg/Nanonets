@@ -65,6 +65,19 @@ Feed into Sheets/Power BI/ERP
 
 Workflow: PDF Upload → Nanonets OCR → structured 
 
+## 📸 Screenshots
+
+### 1. Nanonets invoice with one question
+
+![Google Form](nanonets_agent.png)
+
+---
+
+### 2. Nanonet with multiple question
+
+![Google Sheet](nanonets_questions.png)
+
+---
 
 🏁 Conclusion
 MBA Takeaway: This is Intelligent Document Processing (IDP)—the backbone of Digital Finance Transformation to extract the text from large files. 
